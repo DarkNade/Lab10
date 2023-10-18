@@ -2,7 +2,7 @@
     "movies": [
         {
             "title": "Beastars",
-            "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdoblaje.fandom.com%2Fes%2Fwiki%2FBeastars&psig=AOvVaw12Ak4x83BNlw0K6AIdSNm9&ust=1697670689306000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi3t6Sa_oEDFQAAAAAdAAAAABAJ",
+            "image": "https://raw.githubusercontent.com/DarkNade/Lab10/master/img/Beastasts.webp",
             "bannerPic": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeQOYegMrbtPxngYnvhtxUN1bOB7iP5PavZyl6DOKQRLXf6OrityEsUle6B0UyMGoOK72izXDoO8Kt0H2RWPdk5KCmGsPSBYX3UX.jpg?r=b41",
             "sypnopsis": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero."
         },
@@ -13,10 +13,10 @@
             "sypnopsis": "Mientras la discordia separa las ciudades gemelas de Piltóver y Zaun, dos hermanas se enfrentan en una guerra feroz entre tecnologías mágicas y convicciones opuestas."
         },
         {
-            "title": "Bridgerton",
-            "image": "https://i.pinimg.com/originals/15/5c/67/155c67b87eb29243dca53b4352e362d9.jpg",
+            "title": "Darling in the franxx",
+            "image": "https://github.com/DarkNade/Lab10/blob/master/img/Darling%20in%20the%20franxx.jpeg?raw=true",
             "bannerPic": "https://sigueenserie.files.wordpress.com/2020/12/bridgerton-serie-1.jpg?w=1200",
-            "sypnopsis": "Basada en las célebres novelas de Julia Quinn, la serie narra las vidas de los ocho hermanos Bridgerton mientras buscan amor y felicidad en la alta sociedad londinense."
+            "sypnopsis": "Dentro de estas ciudades futuristas, niños y niñas son entrenados para pilotar robots gigantes llamados Franxx, sin saber nada del mundo exterior. Estos jóvenes pilotos son conocidos como parásitos y son enviados a misiones a bordo de los Franxx para combatir a misteriosos enemigos llamados Klaxosaurios."
         },
         {
             "title": "Castelvania",
