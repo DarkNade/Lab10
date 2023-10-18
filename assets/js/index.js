@@ -1,4 +1,4 @@
-const url = "https://raw.githubusercontent.com/Lina17Landys/Laboratorio-10/main/peliculas.json";
+const url = "https://raw.githubusercontent.com/DarkNade/Lab10/master/peliculas.json";
 
 const imageContainer = document.getElementById("imageContainer");
 
